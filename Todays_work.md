@@ -10,6 +10,6 @@ CS228 : 2025 tut 1,2,3 + proofs revise
 CS230 : 2025 Quiz1 + 2025 Midsem + see Kohavi, Jha - Switching and Finite Automata Theory all the sections mentioned + our own PS 
 
 
-CS215 : Revise whole theory once of joint thingy and stuff.
+CS215 : See the reference book and do questions practice today 
 
 
