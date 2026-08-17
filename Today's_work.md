@@ -5,7 +5,7 @@ CS213 : Do tut && Learn any theory required you get across while doing tuts (tut
 (Extensive very high in priority)
 
 
-CS228 : 2025 tut 1,2,3 + proofs revise + also current ps1 any doubt see + do "THE GREAT RESET"
+CS228 : tut 2,3 + proofs revise + also current ps1 any doubt see + do "THE GREAT RESET"
 
 
 CS230 : 2025 Quiz1 + 2025 Midsem + see Kohavi, Jha - Switching and Finite Automata Theory all the sections mentioned + our own PS + also revise what all was taught today like the controller and hardware thingy.
