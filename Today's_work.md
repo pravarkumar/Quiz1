@@ -1,13 +1,13 @@
-CS 228: ps2+tut2+ see the sections sir has taught till now 
+***CS 228: revise PS1 2025,PS2 2025 +question 9+2024 ps2 is almost same amost fully doen already + 2024 tut1
 
 
-CS 230: Do tut1 finish + tut2
+**CS 230:see the last part we did + tut1 finish + full tut2 
 
 
-CS 293: Do as many assignments in form of paper as possible and do the matrix question 
+*****CS 293: Do as many assignments in form of paper as possible and do the matrix question need to finsih atleast 3-4 today  + leetcode thne also after that 
 
 
-CS 213: 2019-2020:Quiz1,2018-2019:Quiz2
+****CS 213: 2019-2020:Quiz1,2018-2019:Quiz2,2019-2020:Midsem
 
 
-CS 215: First of all see slides make separate notes wrt slides and tsee the reference book all the sections mentioned  
+*CS 215: See slides + make notes for now  
