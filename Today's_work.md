@@ -1,4 +1,4 @@
-***CS 228: revise PS1 2025,PS2 2025 +question 9+2024 + 2024 tut1
+***CS 228: revise PS1 2025,PS2 2025+2024 + 2024 tut1
 
 
 **CS 230:see the last part we did + tut1 finish + full tut2 
